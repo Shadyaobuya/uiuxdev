@@ -1,0 +1,15 @@
+#totaldimension{
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #EEE;
+}
+#mybox{
+    
+    width:600px;
+    padding:30px;
+    border:6px solid black;
+    margin:20px;
+    background-color: red;
+
+}
