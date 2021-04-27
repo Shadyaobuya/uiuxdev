@@ -4,12 +4,13 @@
     margin: 20px;
     border: 2px solid #EEE;
 }
+
 #mybox{
-    
     width:600px;
-    padding:30px;
-    border:6px solid black;
-    margin:20px;
-    background-color: red;
+    padding:30px ;
+    border:10px outset rgb(95, 0, 107);
+    margin:80px;
+    background-color: rgb(192, 133, 133); 
+    
 
 }
